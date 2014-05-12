@@ -1,0 +1,486 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title> 3DELEMENTS : WEB | MULTIMEDIA SOLOUTIONS</title>
+	<link rel="stylesheet" href="css/reset.css" />
+	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/bxslider.css" />
+	<style type="text/css">
+		
+		
+	</style>
+</head>
+<body>
+<div id="mainWrapper">
+		<div class="header-primary">
+				<div class="logo-nav">
+					<a href="index.html" title="3DELEMENTS" rel="home" class="site-log">3DELEMENTS</a>
+					<div class="primary">
+						<div class="main-menu-container">
+							<ul id="main-menu"class="menu">
+								<li id="menu-1"class="item"><a href="#">We do</a></li>
+								<li id="menu-2"class="item"><a href="#">Projects</a></li>
+								<li id="menu-3"class="item"><a href="#">The Agency</a></li>
+								<li id="menu-4"class="item"><a href="#">Our Team</a></li>
+								<li id="menu-5"class="item"><a href="contact.html"> Get in Touch</a></li>
+							</ul>
+						</div><!--main-menu-container ends here-->
+						
+					</div><!--primary ends here-->
+					<div class="site-info clear">
+						<a class="email"title="E-mail">
+						<img src="images/icons/email.png" alt="" /></a>
+						
+						<a class="social"title="social">
+						<img src="images/icons/msg.png" alt="" /></a>						
+						
+					</div><!--site-info ends here-->
+					
+				</div><!--logo-nav ends here-->
+				
+					<div class="secondary">
+					<ul class="submenu menu-1">
+							<li class="item-1"><a href="view-all-services.html">View All</a></li>
+							<li><a href="brochure.html"><img src="images/icons/brochure.png" alt="brochure" />Brochure Design</a></li>
+							<li><a href="graphic-design.html"><img src="images/icons/concept.png" alt="concept" />Graphic Design</a></li>
+							<li><a href="branding.html"><img src="images/icons/branding.png" alt="branding" />Branding</a></li>
+							<li><a href="responsive.html"><img src="images/icons/responsive.png" alt="responsive" />Responsive Web Design</a></li>
+							<li><a href="animations.html"><img src="images/icons/anim.png" alt="animations" />Animations</a></li>
+							<li><a href="game.html"><img src="images/icons/game.png" alt="game" />Game Designing</a></li>
+							<li><a href="editing.html"><img src="images/icons/film.png" alt="editing" />Editing</a></li>
+							<li><a href="mobile.html"><img src="images/icons/mobile.png" alt="mobile apps" />Mobile Applications</a></li>
+							<li class="item-8"><a href="web.html"><img src="images/icons/web.png" alt="wed developement" />Web Development</a></li>
+							<li class="item-9"><a href="e-commerce.html"><img src="images/icons/marketing.png" alt="e-commerce"align="center" />E-Commerce</a></li>
+							<li class="clear"><a href="soft-development.html"><img src="images/icons/soft.png" alt="soft Development" />Software Development</a></li>													
+					</ul>
+					<ul class="submenu menu-2">
+							<li><a href="portfolio.html">Portfolio</a></li>													
+							<li><a href="portfolio.html">Web Marketing</a></li>	
+							<li><a href="portfolio.html">2D Animations</a></li>	
+							<li><a href="portfolio.html">3D Animations</a></li>	
+							<li class="clear"><a href="portfolio.html">Games</a></li>	
+								
+					</ul>
+					<ul class="submenu menu-3">
+							<li><a href="agency.html">The Agency</a></li>													
+							<li class="clear"><a href="feed-back.html">The FeedBack</a></li>													
+					</ul>
+					<ul class="submenu menu-4">
+						<li><a href="our-team.html">Concept Artist</a></li>													
+							<li><a href="our-team.html">2D/3D Designer</a></li>	
+							<li><a href="our-team.html">Developer</a></li>	
+							<li><a href="our-team.html">Programmer</a></li>	
+							<li class="clear"><a href="our-team.html">Manager</a></li>	
+					</ul>
+					
+				</div><!--secondary ends here-->
+				
+				<div class="email-form clear">
+					<h3>Quick Contact</h3>
+					<div class="form">
+						<div class="qc-form">
+							<form action="#" method="post">
+								<ul>
+									<li> <label>Name :
+										<input type="text" /></label>
+									</li>
+									<li> <label>Email :
+										<input type="email" /></label>
+									</li>
+									<li> <label for="qc-msg">Message :
+											<textarea name="" id="qc-msg" cols="30" rows="6"></textarea>
+										</label>
+									</li>
+									
+								</ul>	
+								<button type="submit">Send It</button>
+							</form>
+						</div>  <!-- qc-form ends here -->
+					</div> <!-- form-details ends here -->
+					
+					<div class="details">
+						<div class="city-details">
+							<h3 class="city orange-text">Hyderabad</h3>
+							<p> +91-9985003326</p>
+							<p> hello@3d-elements.com</p>
+						</div>
+						<div class="city-details">
+							<h3 class="city orange-text">Vijayawada</h3>
+							<p> +91-9949955466</p>
+							<p> vijayawada@3d-elements.com</p>
+							
+						</div>
+						
+					</div>  <!-- details ends here-->
+				</div><!--email-form ends here-->
+				
+				<div class="socialmedia">
+					<div class="socialmedia-links">
+						<p>follow us</p>
+					<a href=""><span class="links-title">Twitter</span><img src="images/icons/twi.png" alt="Twitter" /></a>
+					<a href=""><span class="links-title">Facebook</span><img src="images/icons/face.png" alt="Facebook" /></a>
+					<a href=""><span class="links-title">Pinterest</span><img src="images/icons/pin.png" alt="Pinterest" /></a>
+					<a href=""><span class="links-title">Linkedin</span><img src="images/icons/link.png" alt="Linkedin" /></a>
+					</div>	
+				</div><!--email-form ends here-->
+		</div><!--headerPrimary ends here-->		
+<div class="view-services">
+  <div id="page-content">
+		<div class="page-text">				
+			
+				<h3>What we do </h3>
+				
+				<p>
+					With a talent for design and reputation for success our team have been designing marketing material, building websites and running successful online marketing campaigns for many years. We now have a diverse client base and offer practical yet highly eye-catching and innovative solutions with insight and creativity.
+					<span class="orange-text">Learn more about our services below.</span>
+				</p>
+				
+		</div> <!-- page-text ends here -->
+			
+			
+			
+		<div class="category-nav">
+			<div class="filters">
+				<a href="#" class="filter"data-sort="random">All</a>
+				<a href="#" class="filter">Branding</a>
+				<a href="#" class="filter">Graphic Design</a>
+				<a href="#" class="filter">2D-3D Animation</a>
+				<a href="#" class="filter">Web Development</a>
+				<a href="#" class="filter">Games</a>
+				<a href="#" class="filter">Editing</a>
+			</div>
+			<!-- filters -->
+		</div>	
+		<!-- category-nav -->
+			
+				
+			
+		<div class="grid">
+			<div class="post-1 post mix category-1"data-value="2">
+				<div class="grid-square">
+					<a href="brochure.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Brochure Design</h2>
+				<div class="description">
+					Creative brochure design should transform off-line marketing efforts and change brand perceptions. 
+				</div> 
+			</div>
+			<!-- post-1 -->
+			
+			<div class="post-2 post mix category-1" data-value="2">
+				<div class="grid-square">
+					<a href="graphic-design.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Graphic Design</h2>
+				<div class="description">
+					Graphic design is all about communicating a message and what your brand stands for in your sector. 
+				</div> 
+			</div>
+			<!-- post-2 -->
+			
+			<div class="post-3 post mix category-1" data-value="2">
+				<div class="grid-square">
+					<a href="branding.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Branding</h2>
+				<div class="description">
+					Brand is about your reputation; an instinct; a flavor that provides your business with its own unique identity. 
+				</div> 
+			</div>
+			<!-- post-3 -->
+			
+			<div class="post-4 post">
+				<div class="grid-square">
+					<a href="responsive.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Responsive Web Development</h2>
+				<div class="description">
+					This is a great way to  your website and ensure it’s is accessible for all types of browsers. 
+				</div> 
+			</div>
+			<!-- post-4 -->
+			
+			<div class="post-5 post">
+				<div class="grid-square">
+					<a href="e-commerce.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>E-Commerce</h2>
+				<div class="description">
+					Online marketing is all about improving  presence and increasing traffic to the website. 
+				</div> 
+			</div>
+			<!-- post-5 -->
+			
+			<div class="post-6 post">
+				<div class="grid-square">
+					<a href="editing.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Audio-Video Editing</h2>
+				<div class="description">
+					Editing Audio Video is nothing but generating final output from raw footages.
+				</div> 
+			</div>
+			<!-- post-6 -->
+			
+			<div class="post-7 post">
+				<div class="grid-square">
+					<a href="mobile.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Mobile Applications</h2>
+				<div class="description">
+					Our track record shows that we can design and develop exceptional mobile apps, on time and on budget. 
+				</div> 
+			</div>
+			<!-- post-7 -->
+			
+			<div class="post-8 post">
+				<div class="grid-square">
+					<a href="soft-development.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Software Development</h2>
+				<div class="description">
+					Software development is the processing of designing and programming a software application. 
+				</div> 
+			</div>
+			<!-- post-8 -->
+			
+			<div class="post-9 post">
+				<div class="grid-square">
+					<a href="social.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Social Marketing</h2>
+				<div class="description">
+					Social media is incredibly effective if you want to generate interest and awareness of a product or service. 
+				</div> 
+			</div>
+			<!-- post-9 -->
+			
+			<div class="post-10 post">
+				<div class="grid-square">
+					<a href="game.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>2D-3D Game Designing</h2>
+				<div class="description">
+					Game Designing for Mobile and Facebook which includes both 2d and 3d.
+				</div> 
+			</div>
+			<!-- post-10 -->
+			
+			<div class="post-11 post">
+				<div class="grid-square">
+					<a href="animations.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>2D-3D Animations</h2>
+				<div class="description">
+				2d and 3d Animations and Visual Effects which is present trend in advertising your brand.
+				</div> 
+					
+			</div>
+			<!-- post-11 -->
+			
+			<div class="post-12 post">
+				<div class="grid-square">
+					<a href="web.html" class="circle">
+						<span class="inner">
+							<span class="view">								
+							</span>
+							<span class="icon">								
+							</span>
+						</span>
+					</a>
+				</div>
+				<!-- grid-square -->
+				<h2>Web Development</h2>
+				<div class="description">
+					Our company provides Web full-cycle services like website design,hosting and marketing.
+				</div> 
+			</div>
+			<!-- post-12 -->
+			
+			
+			
+		</div>	
+		<!-- grid -->
+			
+   </div> <!-- page-content -->
+</div><!--view-services  -->	
+		
+				
+			
+	<div class="work-with-us ">
+				<h1 class="primary">
+					Work with us
+				</h1>
+				<p>
+					We’re always on the lookout for exciting new projects, so if you’re looking for a great team to work
+with tell us a bit more about your new project. We’d love to help you make an
+impression. <a href="contact.html"target="blank">Get in touch.</a>
+				</p>
+				<div class="orange-button">
+					<div class="orange-button-wrapper">
+						<a href="contact.html"target="blank"class="button"></a>
+					</div>
+	</div>
+			</div><!-- work-with-us -->
+	<div class="to-top-wrapper">
+				<a href="#"title="to-top"class="to-top">
+					Top
+				</a>
+	</div>
+			<!-- to-top -->
+</div><!--mainWrapper ends here-->			
+	<div class="footer">
+				<div class="footer-top">
+					<div class="branch-col">
+						<div class="hyd  clear">
+							<div class="title">Hyderabad.</div>
+							<div class="address"><p> Near Community Hall,</br> SR Nagar, </br>Hyderabad.</p></div>
+							<div class="contact">+91-9985003326</br>
+							hello@3d-elements.com</div>
+						</div>
+						
+						<div class="vja ">
+							<div class="title">Vijayawada.</div>
+							<div class="address"><p> Near Swathi theater, </br>Bhavani Puram, </br>Vijayawada.</p></div>
+							<div class="contact">+91-9949955466</br>
+							Vijayawada@3d-elements.com</div>
+						</div>
+					</div>
+					
+					<div class="services-col">
+						<div class="title">Our Services include...</div>
+						<p>
+							<a href="responsive.html"title="Responsive Web Design"> Responsive Web Design </a>
+							<a href="graphic-design.html"title="Graphic Design"> Graphic Design </a>
+							<a href="branding.html"title="Branding">Branding </a>
+							<a href="e-commerce.html"title="E-commerce"> E-commerce </a>
+							<a href="social.html"title="SEO & SMO"> SEO & SMO </a>
+							<a href="soft-development.html"title="Programming & Development"> Programming & Development </a>
+							<a href="animations.html"title="2D/3D Animations & Games"> 2D/3D Animations & Games </a>					
+							
+						
+						</p>
+					</div>
+					<div class="e-news-col">
+						<div class="title">E-newsletter. <span>Register for the odd bit of news...</span></div>
+						<form action="post">
+							<div class="labels">
+								<label for="footer-name">Name :</label>
+								<label for="footer-email">Email :</label>
+							</div>
+							<div class="inputs">
+								<p>	<input id="footer-name"type="text"placeholder=" your name" /></p>
+								<p>	<input id="footer-email"class="last" type="text"placeholder=" your email" /></p>
+							</div>
+							
+							<button type="button" value="Sign me Up">Sign me Up</button>
+						</form>
+					</div>
+				</div>
+				<!-- footer-top -->
+				
+				<div class="footer-bottom">
+					<p>Privacy Statement</p>
+					<p>Copyright © 2014 <span>3DELEMENTS.</span>  All rights reserved.</p>
+				</div>
+	</div>	
+			<!-- footer -->
+		
+	
+
+	
+	<script type="text/javascript"src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+	<script type="text/javascript"src="mixitup.min.js"></script>
+	<script type="text/javascript"src="mixitupkunkalabs.js"></script>
+</body>
+</html>

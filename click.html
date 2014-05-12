@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<style type="text/css">
+	body{background:grey;margin:80px auto;width:1000px}
+	ul{min-height:600px;padding:20px}
+	ul li{margin:20px 10px;display:inline-block;text-align:center;width:160px;min-height:200px;list-style:none}
+	.box{display:inline-block}
+	a.selected img{height:100px;width:100px;margin:30px;}
+	a.selected span span.tick{background: url("images/sprite-2.png") repeat scroll 0 187px ;display: inline-block;left: 249px;margin: 10px 0 10px 14px;
+    padding: 30px;position: absolute;top: 135px;}
+	a.selected span span.tick1{background: url("images/sprite-2.png") repeat scroll 0 187px ;display: inline-block;left: 449px;margin: 10px 0 10px 14px;
+    padding: 30px;position: absolute;top: 135px;}
+	a.selected span span.tick2{background: url("images/sprite-2.png") repeat scroll 0 187px ;display: inline-block;left: 649px;margin: 10px 0 10px 14px;
+    padding: 30px;position: absolute;top: 135px;}
+	
+	.aside{background:yellow;width:400px;min-height:400px;display:inline-block;float:right}
+	.center{margin:0 auto;width:380px}
+	</style>
+</head>
+<body>
+	<div class="box">
+		<ul>
+			<li>
+				<a href="#">
+					<span class="img">
+						<span class="tick"></span>
+						<img src="images/flowers (1).jpg"height="160px"width="160px" alt="" />
+					</span>
+				</a></li>
+				
+				
+			<li><a href="#"><span class="img"><span class="tick1"></span><img src="images/flowers (2).jpg"height="160px"width="160px" alt="" /></span></a></li>
+			<li><a href="#"><span class="img"><span class="tick2"></span><img src="images/flowers (3).jpg"height="160px"width="160px" alt="" /></span></a></li>
+		</ul>
+	</div>
+	<div class="aside">
+		<div class="center"></div>
+	</div>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script>
+		$(document).ready(function(){
+			var a = $('a');
+			a.click(function(){
+				$(this).toggleClass('selected');
+			$(this).closest('li').clone().appendTo($('.aside'))
+				
+			})
+		})
+	</script>
+</body>
+</html>
